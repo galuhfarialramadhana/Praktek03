@@ -10,5 +10,10 @@ package praktek03;
  * @author Galuh Farial R
  */
 public class Jam extends JamTangan {
+    private String jenisJam;
     
+    void throttle() {
+        System.out.println("Angka");
+   
+    }
 }
