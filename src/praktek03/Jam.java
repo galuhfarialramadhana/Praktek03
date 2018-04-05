@@ -14,6 +14,15 @@ public class Jam extends JamTangan {
     
     void throttle() {
         System.out.println("Angka");
-   
     }
+
+    public String getJenisJam() {
+        return jenisJam;
+    }
+
+    public void setJenisJam(String jenisJam) {
+        this.jenisJam = jenisJam;
+    }
+    
+    
 }
