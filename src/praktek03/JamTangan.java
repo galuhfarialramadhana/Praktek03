@@ -10,8 +10,11 @@ public class JamTangan {
     
     
     void cetakInfo(){
-        System.out.println("Merk /t:"+merk+"/n"+"Ukuran /t:"+ukuran+"/n"+
-                "Tahun /t:"+tahun+"/n"+"Bahan /t:"+bahan+"/n"+"Bentuk /t:"+bentuk+"/n"+
-                "Bahan /t:"+bahan);
+        System.out.println("Merk \t: "+merk+"\n"+
+                           "Ukuran \t: "+ukuran+"\n"+
+                           "Tahun \t: "+tahun+"\n"+
+                           "Bahan \t: "+bahan+"\n"+
+                           "Bentuk \t: "+bentuk+"\n"+
+                           "Bahan \t: "+bahan);
     }
 }
