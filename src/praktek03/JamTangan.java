@@ -15,7 +15,8 @@ public class JamTangan {
                            "Tahun \t: "+tahun+"\n"+
                            "Bahan \t: "+bahan+"\n"+
                            "Bentuk \t: "+bentuk+"\n"+
-                           "Bahan \t: "+bahan);
+                           "Bahan \t: "+bahan+"\n"+
+                            "Harga \t: "+harga);
     }
 
     public String getMerk() {
