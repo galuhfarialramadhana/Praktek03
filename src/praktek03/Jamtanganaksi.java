@@ -11,5 +11,12 @@ public class Jamtanganaksi {
        j.setHarga(150000);
         
         j.cetakInfo();
+        
+        System.out.println(j.getMerk());
+        System.out.println(j.getUkuran());
+        System.out.println(j.getTahun());
+        System.out.println(j.getBahan());
+        System.out.println(j.getBentuk());
+        System.out.println(j.getHarga());
     }
 }
