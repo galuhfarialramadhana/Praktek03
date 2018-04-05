@@ -1,12 +1,12 @@
 package praktek03;
 
 public class JamTangan {
-    String merk;
-    String ukuran;
-    String tahun;
-    String bahan;
-    String bentuk;
-    double harga;
+    private String merk;
+    private String ukuran;
+    private String tahun;
+    private String bahan;
+    private String bentuk;
+    private double harga;
     
     
     void cetakInfo(){
