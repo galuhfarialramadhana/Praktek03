@@ -13,7 +13,7 @@ public class Jam extends JamTangan {
     private String jenisJam;
     
     void throttle() {
-        System.out.println("Angka");
+        System.out.println("Mantaaappp");
     }
 
     public String getJenisJam() {
