@@ -17,4 +17,54 @@ public class JamTangan {
                            "Bentuk \t: "+bentuk+"\n"+
                            "Bahan \t: "+bahan);
     }
+
+    public String getMerk() {
+        return merk;
+    }
+
+    public void setMerk(String merk) {
+        this.merk = merk;
+    }
+
+    public String getUkuran() {
+        return ukuran;
+    }
+
+    public void setUkuran(String ukuran) {
+        this.ukuran = ukuran;
+    }
+
+    public String getTahun() {
+        return tahun;
+    }
+
+    public void setTahun(String tahun) {
+        this.tahun = tahun;
+    }
+
+    public String getBahan() {
+        return bahan;
+    }
+
+    public void setBahan(String bahan) {
+        this.bahan = bahan;
+    }
+
+    public String getBentuk() {
+        return bentuk;
+    }
+
+    public void setBentuk(String bentuk) {
+        this.bentuk = bentuk;
+    }
+
+    public double getHarga() {
+        return harga;
+    }
+
+    public void setHarga(double harga) {
+        this.harga = harga;
+    }
+    
+    
 }
